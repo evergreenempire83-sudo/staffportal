@@ -7,6 +7,7 @@
   "background_color": "#0c1427",
   "theme_color": "#00d09c",
   "orientation": "portrait-primary",
+  "scope": "/",
   "icons": [
     {
       "src": "icon-384x384.png",
@@ -14,7 +15,7 @@
       "type": "image/png"
     },
     {
-      "src": "icon-512x512.png", 
+      "src": "icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
